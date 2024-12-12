@@ -2,7 +2,7 @@
 
 With this JavaScript, you can say anything you want 100 (or however much you want to say it) times.
 
-How to say anything you want 100 times (check out OTHER-INSTRUCTIONS.md as well for another instructions file on a different topic):
+How to say anything you want 100 times (check out <a href=https://github.com/MKstarFromSwitch/say-sorry-100-times/blob/main/OTHER-INSTRUCTIONS.md>OTHER-INSTRUCTIONS.md</a> as well for another instructions file on a different topic):
 
 1. Download say.js.
 2. Right-click say.js, and select Edit in Notepad.
