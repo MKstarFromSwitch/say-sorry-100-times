@@ -11,7 +11,7 @@ How to say anything you want 100 times:
 5. You're all set!
 6. Star the repository (not required)
    
-Submit a pull request or open an issue for issues, new code, suggestions, new files for the repository, or grammar correction to the README.
+Submit a pull request or open an issue for issues, new code, suggestions, new files for the repository, or grammar correction/all corrections to the README.
 
 WARNING:
 - I NEVER obfuscate my codes. Do not run scripts or Tampermonkey scripts that you don't know the code for/if they're obfuscated. They could cause harm to your accounts! (For example, an obfuscated script might be a token/cookie grabber and may grab your token/cookie for the target account. The token/cookie allows someone to log in as you and do whatever they want bypassing all 2FA, and the password. Your accounts could be leaked from this!)
