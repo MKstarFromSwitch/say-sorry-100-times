@@ -2,7 +2,7 @@
 
 With this JavaScript (or C script, not to be confused with cscript.exe), you can say anything you want 100 (or however much you want to say it) times.
 
-THESE INSTRUCTIONS ARE FOR JS. CHECK OUT <a href=https://example.com>C-INSTRUCTIONS.md</a> FOR INSTRUCTIONS IN C.
+THESE INSTRUCTIONS ARE FOR JS. CHECK OUT <a href=https://github.com/MKstarFromSwitch/say-sorry-100-times/blob/main/C-INSTRUCTIONS.md>C-INSTRUCTIONS.md</a> FOR INSTRUCTIONS IN C.
 
 How to say anything you want 100 times (check out <a href=https://github.com/MKstarFromSwitch/say-sorry-100-times/blob/main/OTHER-INSTRUCTIONS.md>OTHER-INSTRUCTIONS.md</a> as well for another instructions file on a different topic):
 
